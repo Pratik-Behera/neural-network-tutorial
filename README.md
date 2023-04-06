@@ -1,5 +1,6 @@
-# **Heart Attack Prediction Neural Network**
+# **Classification model for heart attack prediction based on patient's medical history**
 This project uses a neural network to predict whether a patient is more prone to a heart attack or not based on their medical history.
+This is a simple implementation of neural network in order to predict the output value which is 0 or 1.
 
 ### **Requirements**
 To run this project, you will need :
